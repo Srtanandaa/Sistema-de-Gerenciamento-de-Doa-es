@@ -30,3 +30,14 @@ Este é um sistema web completo desenvolvido para organizar doações de forma p
 - **Banco de Dados:** MySQL
 - **Ambiente local recomendado:** XAMPP
 
+
+📸 Imagens do Sistema
+
+### 🧾 Formulário de Doação
+![Formulário de Doação](imagens/Formulario.png)
+
+### 🛠️ Painel do Administrador
+![Painel do Admin](imagens/admin.png)
+![Painel do Admin](imagens/admin2.png)
+
+
